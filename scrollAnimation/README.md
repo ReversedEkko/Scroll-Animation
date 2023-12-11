@@ -15,23 +15,20 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
     ```bash
-        git clone https://github.com/ReversedEkko/Website-development.git
+    git clone https://github.com/ReversedEkko/Website-development.git
     
 
 2. Navigate to the project directory:
 
-    ```
-        cd scrollAnimation
-    ```
+    ```bash
+    cd scrollAnimation
 
 3. Install dependencies:
 
-    ```
-        npm i or npm install
-    ```
+    ```bash
+    npm i or npm install
+    
 
 ### Run/preview the project
 
-
     npm run dev
-    
