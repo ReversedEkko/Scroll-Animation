@@ -32,6 +32,6 @@ Ensure you have Node.js and npm installed on your machine.
 
 ### Run/preview the project
 
-    ```
-        npm run dev
-    ```
+
+    npm run dev
+    
