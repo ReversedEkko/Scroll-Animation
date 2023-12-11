@@ -14,9 +14,9 @@ Ensure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-    ```
-        git clone <repository-url>
-    ```
+    ```bash
+        git clone https://github.com/ReversedEkko/Website-development.git
+    
 
 2. Navigate to the project directory:
 
